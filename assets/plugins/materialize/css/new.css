@@ -1,0 +1,21 @@
+
+    body{
+        background-color:beige  !important;
+    }
+    nav{
+        background-color:#800000  !important;
+    }
+    .white {
+        background-color:beige  !important;
+        border:none;
+        box-shadow:none  !important;
+    
+    }
+    .card{ 
+        text-align: center;
+        
+    }
+#uni{
+    background-color: #f3dfd9;
+    border: 5px;
+}
